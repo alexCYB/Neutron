@@ -21,6 +21,15 @@
 
 <hr>
 
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+
 <h2>Features</h2>
 
 <h2>Get Started</h2>
