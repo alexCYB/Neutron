@@ -3,10 +3,11 @@
 <h2>Index</h2>
 <ul>
   <li><a href="">Features</a>
-    <li><a href="">Web Scraping</a>
-      <li><a href="">Instagram</a></li>
-      <li><a href="">Instagram</a></li>
-      <li><a href="">Instagram</a></li>
+    <li>
+      <a href="">Web Scraping</a>
+      <a href="">Instagram</a>
+      <a href="">Instagram</a>
+      <a href="">Instagram</a>
     </li>
   </li>
 </ul>
