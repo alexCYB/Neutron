@@ -3,17 +3,11 @@
 <h2>Index</h2>
 <ul>
   <li><a href="">Features</a>
-  <li>
-    <a href="">Item</a></li>
+    <li><a href="">Item</a></li>
   </li>
-  <li>
-    <a href="">Item</a></li>
-  </li>
+
 </ul>
-[]Task example
-[] Task example
-[x]Task example
-[x] Task example
+
 <h2>Features</h2>
 
 <hr>
