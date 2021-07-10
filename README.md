@@ -8,7 +8,6 @@
       <li><a href="">Instagram</a></li>
       <li><a href="">Instagram</a></li>
     </ul>
-  </li>
 </ul>
 
 <h2>Features</h2>
