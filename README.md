@@ -13,6 +13,8 @@
       </li>
     </ul>
   <li><a href="">Get Started</a></li>
+  <li><a href="">Support</a></li>
+  <li><a href="">Get In Touch</a></li>
   </li>
 
 </ul>
