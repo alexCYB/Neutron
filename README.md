@@ -1,27 +1,25 @@
-# Neutron 
-Multi-Purpose CLI Tool
+# 🚀 Neutron
+<b>Neutron. Multi-Purpose CLI Tool.</b><br>
+
+<hr>
 
 <h2>Overview</h2>
-<p>Powered By Alex.</p>
+<p><b>Powered By <a href="https://www.instagram.com/aleex.it">Alex</a></b>.</p>
 
 <h2>Get Started</h2>
 <ol>
- <li>Clone the repo</li>
- <code>git clone https://github.com/alexCYB</code>
- <br>
- <br>
- <li>Navigate to the directory</li>
- <code>cd Neutron</code>
+  <li>Clone the repo</li><br>
+  <code>git clone https://github.com/opensourceprojects-osp/OSP</code><br><br>
+  <li>Navigate to the directory</li><br>
+  <code>cd OSP</code>
 </ol>
 
-
 <h2>Support</h2>
-<b>Need help?</b> Email me or send me a message on Instagram.
+<p><b>Need help?</b> <a href="">Email me</a> or send me a message on <a href="">Instagram</a>.</p>
 
 <h2>Get In Touch</h2>
-Have an idea or an epic project in mind? Talk to me. Let us work together and make something great.
-Shoot us a message at contact-osp@gmail.com.
+<p>Have an idea or an epic project in mind? <b>Talk to us</b>. Let us work together and <b>make something great</b>.<br>
+Shoot us a message at <b><a href="mailto:contact-osp@gmail.com">contact-osp@gmail.com</a></b>.</p>
 
 <h2>Disclaimer</h2>
-This <b>is not</b> affliated, endorsed or certified by Instagram, Twitter and YouTube. This is an independent and unofficial project.
-Do not use the tools provided for illegal reasons.
+<p>This is <b>not affliated</b>, <b>endorsed</b> or <b>certified</b> by <b><a href="https://www.instagram.com">Instagram</a></b>, <b><a href="https://www.twitter.com">Twitter</a></b> and <b><a href="https://www.youtube.com">YouTube</a></b>. This is an <b>independent</b> and <b>unofficial</b> project.<br><b>Do not use the tools provided for illegal reasons.</b></p>
