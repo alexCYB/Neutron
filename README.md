@@ -3,7 +3,11 @@
 <h2>Index</h2>
 <ul>
   <li><a href="">Features</a>
-  <li><a href="">Item</a></li>
+  <li>
+    <a href="">Item</a></li>
+  </li>
+  <li>
+    <a href="">Item</a></li>
   </li>
 </ul>
 
