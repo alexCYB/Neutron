@@ -1,6 +1,6 @@
 # Neutron
 
-<h2>Index</h2>
+<b>Table of Contents</b>
 <ul>
   <li><a href="">Features</a>
     <ul>
