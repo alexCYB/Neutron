@@ -6,7 +6,7 @@
     <ul>
     <li><a href="">Web Scraping</a>
       <ul>
-        - <a href="">Instagram</a></li>
+        - <a href="">Instagram</a>
         <li><a href="">Twitter</a></li>
       </ul>
       </li>
