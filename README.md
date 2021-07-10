@@ -10,7 +10,7 @@
         <li><a href="">Twitter</a></li>
       </ul>
       <li><a href="">YouTube Downloader</a></li>
-      <li><a href="">YouTube Downloader</a></li>
+      <li><a href="">Calculator</a></li>
     </ul>
   <li><a href="">Get Started</a></li>
   <li><a href="">Support</a></li>
