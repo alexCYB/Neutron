@@ -2,7 +2,7 @@
 
 <h2>Index</h2>
 <ul>
-  <li><a href="">Features</a>
+  <li><a href="">Features</a></li>
     <ul><a href="">Web Scraping</a>
       <li><a href="">Instagram</a></li>
       <li><a href="">Instagram</a></li>
