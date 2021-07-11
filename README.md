@@ -1,5 +1,4 @@
 # Neutron
-<p><img src="C:/Users/utente/Desktop/Neutron/images/version.svg"></p>
 
 <b>Table of Contents</b>
 <ul>
