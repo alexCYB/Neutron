@@ -45,7 +45,7 @@
 
 <h2>Get In Touch</h2>
 <p>Have an idea or an epic project in mind? <b>Talk to us</b>. Let us work together and <b>make something great</b>.<br>
-Shoot us a message at <b><a href="mailto:contact-osp@gmail.com">contact-osp@gmail.com</a></b>.</p>
+Shoot us a message at <b><a href="mailto:example@example.com">example@example.com</a></b>.</p>
 
 <h2>Disclaimer</h2>
 <p>This is <b>not affliated</b>, <b>endorsed</b> or <b>certified</b> by <b><a href="https://www.instagram.com">Instagram</a></b>, <b><a href="https://www.twitter.com">Twitter</a></b> and <b><a href="https://www.youtube.com">YouTube</a></b>. This is an <b>independent</b> and <b>unofficial</b> project.<br><b>Do not use the tools provided for illegal reasons.</b></p>
